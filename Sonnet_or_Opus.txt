@@ -1,0 +1,5 @@
+Prompt 1: Claude Sonnet chosen due to its added functionality "feels like".
+Prompt 2: Claude Opus chosen as Sonnet produced faulty code.
+Prompt 3: Claude Opus worked fine whereas Claude Sonnet produced errors.
+Prompt 4: Claude Sonnet chosen as it produced a working approach towards OAuth
+Prompt 5: Claude Sonnet chosen as it produced a working unittest 
